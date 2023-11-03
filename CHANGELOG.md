@@ -31,7 +31,7 @@ Semua perubahan penting pada SFW38s akan didokumentasikan dalam file ini
 ```html
 <iconify-icon class="sfcopy" icon="lucide:copy" data-clipboard-text="123456" data-clipboard-notif="No. Rekening disalin"></iconify-icon>
 ```
-- Ikon &lt;svg&gt; digantikan &lt;iconify-icon&gt;
+- Ikon &lt;svg&gt; digantikan [&lt;iconify-icon&gt;](https://iconify.design/)
   - &lt;iconify-icon&gt; bawaan menggunakan [Lucide](https://icon-sets.iconify.design/lucide/), dapat diubah, terdapat 150K+ ikon 😱
 - Gambar produk pada domain/produk/*
 
